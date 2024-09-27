@@ -1,16 +1,11 @@
-# myapp
+# Asiatic Notes
 
-A new Flutter project.
+Asiatic Notes is a user-friendly Flutter application designed to help you organize your notes efficiently. With a clean interface and various features, this app allows you to create, edit, delete, and search notes effortlessly. 
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Create and Edit Notes**: Easily add new notes or modify existing ones.
+- **Search Functionality**: Quickly find notes using the search bar.
+- **Delete Notes**: Remove unwanted notes with a simple confirmation dialog.
+- **Customizable UI**: Enjoy a pleasant user experience with a sleek design and yellow gradient background.
+- **Splash Screen**: A welcoming splash screen with your app logo.
